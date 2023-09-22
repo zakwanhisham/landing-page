@@ -5,8 +5,8 @@ This is a landing page project from `Odin-Projects`.
 ## ASSIGNMENT
 
 1. Make the `landing-page` using the template:
-   1. ![Full Design](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
-   2. ![Color and Fonts](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)
+   1. [Full Design](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
+   2. [Color and Fonts](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)
       - The font that's being used in the images is `roboto`.
       - Hero text is the statement that appears at the **top of a web page**.
 2. Take one section at a time.
