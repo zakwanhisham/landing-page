@@ -20,22 +20,22 @@ This is a landing page project from `Odin-Projects`.
 
 ## TODO
 
-- [ ] Make the HTML
-  - [ ] Header
-    - [ ] Header Logo
-    - [ ] Header Links (3 links)
-  - [ ] Hero
-    - [ ] Introduction
-    - [ ] Images
-  - [ ] Information
-    - [ ] 4 random information
-    - [ ] 4 images accompanying the information
-  - [ ] Quote
-    - [ ] One quote from historical figures
-  - [ ] Sign up
-    - [ ] Just a sign up pop-ip with a button
-  - [ ] Footer
-    - [ ] Name and copyright
+- [x] Make the HTML
+  - [x] Header
+    - [x] Header Logo
+    - [x] Header Links (3 links)
+  - [x] Hero
+    - [x] Introduction
+    - [x] Images
+  - [x] Information
+    - [x] 4 random information
+    - [x] 4 images accompanying the information
+  - [x] Quote
+    - [x] One quote from historical figures
+  - [x] Sign up
+    - [x] Just a sign up pop-ip with a button
+  - [x] Footer
+    - [x] Name and copyright
 - [ ] Make the css
   - [ ] Header
   - [ ] Hero
